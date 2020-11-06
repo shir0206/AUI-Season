@@ -15,11 +15,11 @@ img {
 }
 
 .bright {
-  background: rgb(255, 0, 0);
+  background: #fb607f;
 }
 
 .dark {
-  background: rgb(60, 255, 0);
+  background: #66b032;
 }
 
 body {
