@@ -13,30 +13,30 @@ export default function App() {
       <h2>איזו עונה אתם הכי אוהבים?</h2>
 
       <img
-        src={require("./fall.png")}
-        alt="op"
+        src="https://res.cloudinary.com/doywfjryu/image/upload/v1604663018/samples/fall_y59b8b.png"
+        alt="fall"
         onClick={() => {
           alert("תודה רבה");
         }}
       ></img>
 
       <img
-        src={require("./winter.png")}
-        alt="op"
+        src="https://res.cloudinary.com/doywfjryu/image/upload/v1604663018/samples/winter_qmklyz.png"
+        alt="winter"
         onClick={() => {
           alert("תודה רבה");
         }}
       ></img>
       <img
-        src={require("./spring.png")}
-        alt="op"
+        src="https://res.cloudinary.com/doywfjryu/image/upload/v1604663018/samples/spring_vjwrlb.png"
+        alt="spring"
         onClick={() => {
           alert("תודה רבה");
         }}
       ></img>
       <img
-        src={require("./summer.png")}
-        alt="op"
+        src="https://res.cloudinary.com/doywfjryu/image/upload/v1604663017/samples/summer_mg2yzw.png"
+        alt="summer"
         onClick={() => {
           alert("תודה רבה");
         }}
