@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  direction: rtl;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  cursor: pointer;
+  width: 10vw;
+  margin: 1vw;
+}
+
+.bright {
+  background: rgb(255, 0, 0);
+}
+
+.dark {
+  background: rgb(60, 255, 0);
+}
+
+body {
+  margin: 0px;
+}
